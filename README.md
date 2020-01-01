@@ -1,2 +1,2 @@
 # tindog
-Udemy CSS &amp; Bootstrap course w Angela Yu
+Mock parody Tinder page. Udemy CSS and Bootstrap course w Angela Yu.
